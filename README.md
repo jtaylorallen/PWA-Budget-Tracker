@@ -17,7 +17,7 @@
 
 ## First Look
 - ## First Looks
-# ![] (public\images\budget-sceenshot.png)
+# ![Alt text] (public\images\budget-sceenshot.png)
 
 ## Wireframes
 
