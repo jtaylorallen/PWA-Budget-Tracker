@@ -17,9 +17,7 @@
 
 ## First Look
 - ## First Looks
-# ![](readme-screenshots/screenshot-1.png)
-# ![](readme-screenshots/screenshot-2.png)
-# ![](readme-screenshots/screenshot-3.png)
+# ![](readme-screenshots/budget-screenshot.png)
 
 ## Wireframes
 
