@@ -17,7 +17,7 @@
 
 ## First Look
 - ## First Looks
-# ![Alt text] (public\images\budget-sceenshot.png)
+# ![alt text] (screenshot/budget-sceenshot.png "offline")
 
 ## Wireframes
 
